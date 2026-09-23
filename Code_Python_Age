@@ -1,5 +1,5 @@
-
 age = int(input())
+
 if age <= 13:
     print('childhood')
 if 14<=age<=24:
